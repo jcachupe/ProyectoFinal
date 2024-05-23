@@ -1,0 +1,12 @@
+Hipótesis y Hallazgos
+
+Hipótesis:
+
+La demanda de los productos sigue una tendencia lineal creciente debido a un aumento constante en la popularidad de los productos.
+Las proyecciones de ventas para los próximos años mostrarán un crecimiento estable.
+
+Hallazgos:
+
+La regresión lineal muestra que las ventas han aumentado de manera constante en el período analizado.
+Los modelos ARIMA sugieren un crecimiento similar pero con ajustes para estacionalidades y variaciones a lo largo del tiempo.
+Las proyecciones permiten a la empresa planificar estrategias de inventario y marketing de manera más efectiva.
